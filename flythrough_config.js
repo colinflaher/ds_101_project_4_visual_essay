@@ -58,7 +58,7 @@ var config = {
             id: 'jmu-campus',
             title: 'JMU Campus Overview',
             description: 'James Madison University in Harrisonburg, Virginia. Three key locations emerge from student discussions.',
-            image: './images/d_hall.jpg',
+            image: './images/chapter_1_jmu_campus.jpg',
             duration: 2500,
             
             // Camera position
@@ -76,7 +76,7 @@ var config = {
             id: 'jmu-location-1',
             title: 'JMU Location 1: The Quad',
             description: 'Central outdoor area on campus with moderate social media activity.',
-            image: './images/quad.jpg',
+            image: './images/chapter_2_jmu_quad.jpg',
             duration: 2000,
             
             // Camera position
@@ -104,7 +104,7 @@ var config = {
             id: 'jmu-location-2',
             title: 'JMU Location 2: Village Dorms',
             description: 'Campus residence area with low activity and mostly neutral sentiment.',
-            image: './images/arboretum.jpg',
+            image: './images/chapter_3_dorm.jpg',
             duration: 2000,
             
             camera: {
@@ -130,7 +130,7 @@ var config = {
             id: 'jmu-location-3',
             title: 'JMU Location 3: Harrisonburg City',
             description: 'Nearby city with high online activity and generally neutral sentiment.',
-            image: './images/art_gallery.jpg',
+            image: './images/chapter_4_jmu_harrison.jpg',
             duration: 2000,
             
             camera: {
@@ -156,7 +156,7 @@ var config = {
             id: 'vcu-campus',
             title: 'vcu Campus Overview',
             description: 'Virginia Commonwealth University. Three key locations emerge from student discussions.',
-            image: './images/quad.jpg',
+            image: './images/chapter_5_vcu_overview.jpg',
             duration: 2500,
             
             camera: {
@@ -173,7 +173,7 @@ var config = {
             id: 'VCU-location-1',
             title: 'VCU Location 1: [Monroe Park]',
             description: 'Campus park with moderate activity and slightly negative sentiment.',
-            image: './images/d_hall.jpg',
+            image: './images/chapter_6_vcu_monroe.jpg',
             duration: 2000,
             
             camera: {
@@ -199,7 +199,7 @@ var config = {
             id: 'vcu-location-2',
             title: 'VCU Location 2: [Richmond]',
             description: 'City surrounding VCU with high activity and slightly positive sentiment.',
-            image: './images/arboretum.jpg',
+            image: './images/chapter_7_vcu_city.jpg',
             duration: 2000,
             
             camera: {
@@ -225,7 +225,7 @@ var config = {
             id: 'vcu-location-3',
             title: 'VCU Location 3: [GRC]',
             description: 'Small location near campus with few posts but mostly positive sentiment.',
-            image: './images/art_gallery.jpg',
+            image: './images/chapter_8_vcu_grc.jpg',
             duration: 2000,
             
             camera: {
@@ -250,7 +250,7 @@ var config = {
             id: 'conclusion',
             title: 'Conclusion: Comparing Campus Sentiment',
             description: 'Our analysis reveals both similarities and differences in how students experience and discuss these two universities.',
-            image: './images/quad.jpg',
+            image: './images/conclusion_vcu(1).jpg',
             duration: 3000,
             
             camera: {
