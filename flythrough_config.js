@@ -40,7 +40,7 @@ var config = {
             id: 'intro',
             title: 'Reddit Sentiment Analysis: Two College Towns',
             description: 'Exploring how students discuss their campuses on Reddit - comparing JMU in Harrisonburg, VA and VCU in Richmond, VA.',
-            image: './images/intro_jmu.jpg',
+            image: './images/intro.jpg',
             duration: 3000,
             
             // Camera position (where to fly)
@@ -104,7 +104,7 @@ var config = {
             id: 'jmu-location-2',
             title: 'JMU Location 2: Village Dorms',
             description: 'Campus residence area with low activity and mostly neutral sentiment.',
-            image: './images/chapter_3_dorm.jpg',
+            image: './images/chapter_3_jmu_dorm.jpg',
             duration: 2000,
             
             camera: {
@@ -154,7 +154,7 @@ var config = {
         {
             // CHAPTER 6: UNC Campus Overview
             id: 'vcu-campus',
-            title: 'vcu Campus Overview',
+            title: 'VCU Campus Overview',
             description: 'Virginia Commonwealth University. Three key locations emerge from student discussions.',
             image: './images/chapter_5_vcu_overview.jpg',
             duration: 2500,
@@ -171,7 +171,7 @@ var config = {
         {
             // CHAPTER 7: UNC Location 1
             id: 'VCU-location-1',
-            title: 'VCU Location 1: [Monroe Park]',
+            title: 'VCU Location 1: Monroe Park ',
             description: 'Campus park with moderate activity and slightly negative sentiment.',
             image: './images/chapter_6_vcu_monroe.jpg',
             duration: 2000,
@@ -197,9 +197,9 @@ var config = {
         {
             // CHAPTER 8: UNC Location 2
             id: 'vcu-location-2',
-            title: 'VCU Location 2: [Richmond]',
+            title: 'VCU Location 2: Richmond',
             description: 'City surrounding VCU with high activity and slightly positive sentiment.',
-            image: './images/chapter_7_vcu_city.jpg',
+            image: './images/chapter_7_city.jpg',
             duration: 2000,
             
             camera: {
@@ -223,7 +223,7 @@ var config = {
         {
             // CHAPTER 9: UNC Location 3
             id: 'vcu-location-3',
-            title: 'VCU Location 3: [GRC]',
+            title: 'VCU Location 3: GRC ',
             description: 'Small location near campus with few posts but mostly positive sentiment.',
             image: './images/chapter_8_vcu_grc.jpg',
             duration: 2000,
