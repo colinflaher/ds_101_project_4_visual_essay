@@ -39,7 +39,7 @@ var config = {
             // CHAPTER 1: Overview of both locations
             id: 'intro',
             title: 'Reddit Sentiment Analysis: Two College Towns',
-            description: 'Exploring how students discuss their campuses on Reddit - comparing JMU in Harrisonburg, VA and UNC in Chapel Hill, NC.',
+            description: 'Exploring how students discuss their campuses on Reddit - comparing JMU in Harrisonburg, VA and VCU in Richmond, VA.',
             image: './images/quad.jpg',
             duration: 3000,
             
@@ -74,25 +74,25 @@ var config = {
         {
             // CHAPTER 3: JMU Location 1
             id: 'jmu-location-1',
-            title: 'JMU Location 1: [Name Here]',
+            title: 'JMU Location 1: The Quad',
             description: 'Add your description here. Include sentiment analysis findings, post count, and key themes.',
             image: './images/quad.jpg',
             duration: 2000,
             
             // Camera position
             camera: {
-                latitude: 38.4347,           // Replace with coordinates from CSV
-                longitude: -78.8690,
+                latitude: 38.4385,           // Replace with coordinates from CSV
+                longitude: -78.8738,
                 zoom: 17
             },
             
             // Location data (creates the marker on map)
             location: {
                 name: 'JMU Location 1',      // Replace with location name from CSV
-                latitude: 38.4347,           // Must match camera coordinates
-                longitude: -78.8690,
-                postCount: 50,               // Look up in your whitepaper visualizations
-                robertaScore: 0.25,          // Look up in your whitepaper visualizations
+                latitude: 38.4385,           // Must match camera coordinates
+                longitude: -78.8738,
+                postCount: 15,               // Look up in your whitepaper visualizations
+                robertaScore: 0.260,          // Look up in your whitepaper visualizations
                 isJMU: true
             },
             
