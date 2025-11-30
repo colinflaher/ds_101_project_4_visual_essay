@@ -75,7 +75,7 @@ var config = {
             // CHAPTER 3: JMU Location 1
             id: 'jmu-location-1',
             title: 'JMU Location 1: The Quad',
-            description: 'Add your description here. Include sentiment analysis findings, post count, and key themes.',
+            description: 'Central outdoor area on campus with moderate social media activity.',
             image: './images/quad.jpg',
             duration: 2000,
             
@@ -102,23 +102,23 @@ var config = {
         {
             // CHAPTER 4: JMU Location 2
             id: 'jmu-location-2',
-            title: 'JMU Location 2: [Name Here]',
-            description: 'Add your description here.',
+            title: 'JMU Location 2: Village Dorms',
+            description: 'Campus residence area with low activity and mostly neutral sentiment.',
             image: './images/arboretum.jpg',
             duration: 2000,
             
             camera: {
-                latitude: 38.4335,
-                longitude: -78.8715,
+                latitude: 38.4362,
+                longitude: -78.8691,
                 zoom: 17
             },
             
             location: {
                 name: 'JMU Location 2',
-                latitude: 38.4335,
-                longitude: -78.8715,
-                postCount: 75,
-                robertaScore: -0.15,
+                latitude: 38.4362,
+                longitude: -78.8691,
+                postCount: 16,
+                robertaScore: 0.080,
                 isJMU: true
             },
             
@@ -128,14 +128,14 @@ var config = {
         {
             // CHAPTER 5: JMU Location 3
             id: 'jmu-location-3',
-            title: 'JMU Location 3: [Name Here]',
-            description: 'Add your description here.',
+            title: 'JMU Location 3: Harrisonburg City',
+            description: 'Nearby city with high online activity and generally neutral sentiment.',
             image: './images/art_gallery.jpg',
             duration: 2000,
             
             camera: {
-                latitude: 38.4390,
-                longitude: -78.8620,
+                latitude: 38.4469,
+                longitude: -78.8642,
                 zoom: 17
             },
             
@@ -143,8 +143,8 @@ var config = {
                 name: 'JMU Location 3',
                 latitude: 38.4390,
                 longitude: -78.8620,
-                postCount: 100,
-                robertaScore: 0.55,
+                postCount: 295,
+                robertaScore: -0.024,
                 isJMU: true
             },
             
@@ -153,9 +153,9 @@ var config = {
         
         {
             // CHAPTER 6: UNC Campus Overview
-            id: 'unc-campus',
-            title: 'UNC Campus Overview',
-            description: 'University of North Carolina at Chapel Hill. Three key locations emerge from student discussions.',
+            id: 'vcu-campus',
+            title: 'vcu Campus Overview',
+            description: 'Virginia Commonwealth University. Three key locations emerge from student discussions.',
             image: './images/quad.jpg',
             duration: 2500,
             
@@ -170,9 +170,9 @@ var config = {
         
         {
             // CHAPTER 7: UNC Location 1
-            id: 'unc-location-1',
-            title: 'UNC Location 1: [Name Here]',
-            description: 'Add your description here.',
+            id: 'VCU-location-1',
+            title: 'VCU Location 1: [Monroe Park]',
+            description: 'Campus park with moderate activity and slightly negative sentiment.',
             image: './images/d_hall.jpg',
             duration: 2000,
             
@@ -184,10 +184,10 @@ var config = {
             
             location: {
                 name: 'UNC Location 1',
-                latitude: 35.9050,
-                longitude: -79.0470,
-                postCount: 60,
-                robertaScore: 0.30,
+                latitude: 37.5518,
+                longitude: -77.4480,
+                postCount: 46,
+                robertaScore: -0.088,
                 isJMU: false                 // UNC location
             },
             
@@ -196,24 +196,24 @@ var config = {
         
         {
             // CHAPTER 8: UNC Location 2
-            id: 'unc-location-2',
-            title: 'UNC Location 2: [Name Here]',
-            description: 'Add your description here.',
+            id: 'vcu-location-2',
+            title: 'VCU Location 2: [Richmond]',
+            description: 'City surrounding VCU with high activity and slightly positive sentiment.',
             image: './images/arboretum.jpg',
             duration: 2000,
             
             camera: {
-                latitude: 35.9060,
-                longitude: -79.0480,
+                latitude: 37.5407,
+                longitude: -77.4281,
                 zoom: 17
             },
             
             location: {
                 name: 'UNC Location 2',
-                latitude: 35.9060,
-                longitude: -79.0480,
-                postCount: 85,
-                robertaScore: -0.10,
+                latitude: 37.5407,
+                longitude: -77.4281,
+                postCount: 160,
+                robertaScore: 0.048,
                 isJMU: false
             },
             
@@ -222,24 +222,24 @@ var config = {
         
         {
             // CHAPTER 9: UNC Location 3
-            id: 'unc-location-3',
-            title: 'UNC Location 3: [Name Here]',
-            description: 'Add your description here.',
+            id: 'vcu-location-3',
+            title: 'VCU Location 3: [GRC]',
+            description: 'Small location near campus with few posts but mostly positive sentiment.',
             image: './images/art_gallery.jpg',
             duration: 2000,
             
             camera: {
-                latitude: 35.9070,
-                longitude: -79.0490,
+                latitude: 37.5457,
+                longitude: -77.4511,
                 zoom: 17
             },
             
             location: {
                 name: 'UNC Location 3',
-                latitude: 35.9070,
-                longitude: -79.0490,
-                postCount: 95,
-                robertaScore: 0.40,
+                latitude: 37.5457,
+                longitude: -77.4511,
+                postCount: 55,
+                robertaScore: 0.321,
                 isJMU: false
             },
             
