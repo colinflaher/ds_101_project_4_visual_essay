@@ -183,9 +183,9 @@ var config = {
             },
             
             location: {
-                name: 'UNC Location 1',
-                latitude: 37.5518,
-                longitude: -77.4480,
+                name: 'VCU Location 1',
+                latitude: 35.9050,
+                longitude: -79.0470,
                 postCount: 46,
                 robertaScore: -0.088,
                 isJMU: false                 // UNC location
@@ -209,7 +209,7 @@ var config = {
             },
             
             location: {
-                name: 'UNC Location 2',
+                name: 'VCU Location 2',
                 latitude: 37.5407,
                 longitude: -77.4281,
                 postCount: 160,
@@ -235,7 +235,7 @@ var config = {
             },
             
             location: {
-                name: 'UNC Location 3',
+                name: 'VCU Location 3',
                 latitude: 37.5457,
                 longitude: -77.4511,
                 postCount: 55,
