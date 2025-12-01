@@ -40,7 +40,7 @@ var config = {
             id: 'intro',
             title: 'Reddit Sentiment Analysis: Two College Towns',
             description: 'Exploring how students discuss their campuses on Reddit - comparing JMU in Harrisonburg, VA and VCU in Richmond, VA.',
-            image: './images/intro.jpg',
+            image: './images/intro_jmu.jpg',
             duration: 3000,
             
             // Camera position (where to fly)
@@ -199,7 +199,7 @@ var config = {
             id: 'vcu-location-2',
             title: 'VCU Location 2: Richmond',
             description: 'City surrounding VCU with high activity and slightly positive sentiment.',
-            image: './images/chapter_7_city.jpg',
+            image: './images/chapter_7_vcu_city.jpg',
             duration: 2000,
             
             camera: {
@@ -250,7 +250,7 @@ var config = {
             id: 'conclusion',
             title: 'Conclusion: Comparing Campus Sentiment',
             description: 'Our analysis reveals both similarities and differences in how students experience and discuss these two universities.',
-            image: './images/conclusion_vcu(1).jpg',
+            image: './images/conclusion_vcu (1).jpg',
             duration: 3000,
             
             camera: {
