@@ -177,15 +177,15 @@ var config = {
             duration: 2000,
             
             camera: {
-                latitude: 35.9050,
-                longitude: -79.0470,
+                latitude: 37.54677,
+                longitude: -77.45054,
                 zoom: 17
             },
             
             location: {
-                name: 'VCU Location 1',
-                latitude: 35.9050,
-                longitude: -79.0470,
+                name: 'UNC Location 1',
+                latitude: 37.54677,
+                longitude: -77.45054,
                 postCount: 46,
                 robertaScore: -0.088,
                 isJMU: false                 // UNC location
@@ -209,7 +209,7 @@ var config = {
             },
             
             location: {
-                name: 'VCU Location 2',
+                name: 'UNC Location 2',
                 latitude: 37.5407,
                 longitude: -77.4281,
                 postCount: 160,
@@ -235,7 +235,7 @@ var config = {
             },
             
             location: {
-                name: 'VCU Location 3',
+                name: 'UNC Location 3',
                 latitude: 37.5457,
                 longitude: -77.4511,
                 postCount: 55,
