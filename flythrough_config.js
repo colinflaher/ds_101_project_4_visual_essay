@@ -136,7 +136,7 @@ var config = {
             camera: {
                 latitude: 38.4469,
                 longitude: -78.8642,
-                zoom: 17
+                zoom: 20
             },
             
             location: {
@@ -160,9 +160,9 @@ var config = {
             duration: 2500,
             
             camera: {
-                latitude: 35.9049,
-                longitude: -79.0469,
-                zoom: 14
+                latitude: 37.54677,
+                longitude: -77.20,
+                zoom: 9
             },
             
             showData: 'non_jmu_locations'    // Show only UNC locations
