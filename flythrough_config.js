@@ -136,7 +136,7 @@ var config = {
             camera: {
                 latitude: 38.4469,
                 longitude: -78.8642,
-                zoom: 20
+                zoom: 14
             },
             
             location: {
