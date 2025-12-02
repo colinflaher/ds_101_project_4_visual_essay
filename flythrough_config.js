@@ -75,7 +75,7 @@ var config = {
             // CHAPTER 3: JMU Location 1
             id: 'jmu-location-1',
             title: 'JMU Location 1: The Quad',
-            description: 'Central outdoor area on campus with moderate social media activity.',
+            description: '15, avg 0.260. Very social spot on JMU campus. This is where all bluestone buildings are located which includes class halls and dorm halls. Students come to the quad frequently whether it is for class or a social event. Students talk about the quad a lot due to how prevalent it is and how social it can be.',
             image: './images/chapter_2_jmu_quad.jpg',
             duration: 2000,
             
@@ -103,7 +103,7 @@ var config = {
             // CHAPTER 4: JMU Location 2
             id: 'jmu-location-2',
             title: 'JMU Location 2: Village Dorms',
-            description: 'Campus residence area with low activity and mostly neutral sentiment.',
+            description: '16, avg 0.080, Popular first year only student dorms. Very lively and social double occupancy 3 room suite style dorms. Very fun for freshman due to the social aspect and lively atmosphere.',
             image: './images/chapter_3_jmu_dorm.jpg',
             duration: 2000,
             
@@ -129,7 +129,7 @@ var config = {
             // CHAPTER 5: JMU Location 3
             id: 'jmu-location-3',
             title: 'JMU Location 3: Harrisonburg City',
-            description: 'Nearby city with high online activity and generally neutral sentiment.',
+            description: '295, avg -0.024. A small city located right near JMUs campus. Places for people to eat, shop, explore, and hangout. Right near JMUs campus and is easily accessible for students to walk around to. ',
             image: './images/chapter_4_jmu_harrison.jpg',
             duration: 2000,
             
@@ -172,7 +172,7 @@ var config = {
             // CHAPTER 7: UNC Location 1
             id: 'VCU-location-1',
             title: 'VCU Location 1: Monroe Park ',
-            description: 'Campus park with moderate activity and slightly negative sentiment.',
+            description: '39, Average sentiment of Monroe park is -0.096. Park in VCUs main campus that students use to hangout, study, socialize, and eat. Its open for residential use of students and commercial use of the surrounding Richmond population. Its located right in the middle of VCU where numerous people hang out.',
             image: './images/chapter_6_vcu_monroe.jpg',
             duration: 2000,
             
@@ -198,7 +198,7 @@ var config = {
             // CHAPTER 8: UNC Location 2
             id: 'vcu-location-2',
             title: 'VCU Location 2: Richmond',
-            description: 'City surrounding VCU with high activity and slightly positive sentiment.',
+            description: '138, avg -0.006. The location of which VCU is located in. Richmond is a very populated and diverse city with a dense population. Historic city with lots of different locations and it is very popular for tourism due to its historic value, culture, food, nightlife, and outdoor activities. There is a lot of activity that goes on throughout Richmond due to the amount of commercialism.',
             image: './images/chapter_7_vcu_city.jpg',
             duration: 2000,
             
@@ -224,7 +224,7 @@ var config = {
             // CHAPTER 9: UNC Location 3
             id: 'vcu-location-3',
             title: 'VCU Location 3: GRC ',
-            description: 'Small location near campus with few posts but mostly positive sentiment.',
+            description: 'Largest student dormitory in Virginia. 12 story dormitory that houses primarily first year students. Contains amenities such as a 24/7 fitness center, study lounge, mail room, a theatre, and is right next to Monroe Park. It is very crowded and not the most ideal place for first years and upper classmen to live.',
             image: './images/chapter_8_vcu_grc.jpg',
             duration: 2000,
             
@@ -249,7 +249,7 @@ var config = {
             // CHAPTER 10: Final zoom out
             id: 'conclusion',
             title: 'Conclusion: Comparing Campus Sentiment',
-            description: 'Our analysis reveals both similarities and differences in how students experience and discuss these two universities.',
+            description: 'Our analysis reveals very different experiences of students due to locations of each university. VCUs campus and surrounding area is very commercial compared to JMU. Due to that, there is a lot more exposure to crime since the population seen at VCU is not primarily just the student body.',
             image: './images/conclusion_vcu (1).jpg',
             duration: 3000,
             
